@@ -4,6 +4,7 @@ Welcome to my website! Below are some links you can check out:
 
 ## Pages in this Repository
 
+- [PyGMT - Installation](pygmt_install.md)
 - [PyGMT - Download Katalog Gempa](pygmt_download.md)
 
 ## External Links

@@ -9,4 +9,4 @@ Welcome to my website! Below are some links you can check out:
 
 ## External Links
 
-- [Buku Metode Komputasi Geofisika Menggunakan Python](https://bit.ly/python_geoph)
+- [Buku Metode Komputasi Geofisika Menggunakan Python](https://github.com/iktri/iktripy/tree/870d1b9fd251179b348bcd1e47bcf8c19b0922c2/Metode%20Komputasi%20Geofisika%20Menggunakan%20Python)

@@ -4,7 +4,7 @@ Welcome to my website! Below are some links you can check out:
 
 ## Pages in this Repository
 
-- [PyGMT - Plot Seismicity](pygmt_seismicity.md)
+- [PyGMT - Download Katalog Gempa](pygmt_download.md)
 
 ## External Links
 

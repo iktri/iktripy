@@ -75,7 +75,7 @@ Misalkan data katalog yang dibutuhkan adalah dengan batasan sebagai berikut:
 | Depth    | -              | -              |
 | Magnitude | 6            | -              |
 
-Maka dapat dituliskan_ script_ pada Jupyter sebagai berikut:
+Maka dapat dituliskan _script_ pada Jupyter sebagai berikut:
 
 ```python
 client = Client("IRIS")

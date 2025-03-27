@@ -64,9 +64,10 @@ _Client_ merupakan lembaga yang tergabung dalam _International Federation of Dig
 | 30     | USP        | Centro de Sismologia | [http://sismo.iag.usp.br](http://sismo.iag.usp.br) |
 
 2. Diketahui gempa Tohoku, Jepang 2011 dengan keterangan berikut:
-![Sumber: ShakeMap of The 2011 off the Pacific coast of Tohoku Earthquake](https://github.com/iktri/iktripy/blob/dcab169f03c20e5c09c8c828d262e9207fe5ecc9/gambar/download02.jpg)
+![Sumber: ShakeMap of The 2011 off the Pacific coast of Tohoku Earthquake](https://github.com/iktri/iktripy/blob/dcab169f03c20e5c09c8c828d262e9207fe5ecc9/gambar/download02.jpg?raw=true)
 
 Misalkan data katalog yang dibutuhkan adalah dengan batasan sebagai berikut: 
+
 |        | **Min**        | **Max**        |
 |--------|----------------|----------------|
 | Time   | 1 Maret 2011   | 15 Maret 2011  |

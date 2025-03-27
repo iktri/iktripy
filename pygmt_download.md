@@ -1,4 +1,4 @@
-#PyGMT - Download Data Katalog Gempabumi
+# PyGMT - Download Data Katalog Gempabumi
 
 Sebelum melakukan visualisasi, terlebih dahulu kita melakukan download data katalog gempabumi yang dapat diambil dari beberapa agensi. Beberapa pengertian dari istilah yang muncul dalam gempabumi adalah:
 - Hiposenter merupakan lokasi terjadinya gempabumi dilihat dari kedalaman, jika ditunjukkan dalam koordinat maka hiposenter memiliki posisi (xo, yo, zo). Sedangkan episenter merupakan lokasi terjadinya gempabumi dilihat di permukaan, sebagai proyeksi dari hiposenter. Episenter memiliki posisi (xo, yo). Sementara kedalaman gempabumi disebut sebagai fokus.
@@ -14,7 +14,7 @@ Katalog gempa dapat disimpan dalam file ASCII ataupun Ms. Excel.
 Untuk script Python Download_Data.ipynb dapat diakses pada:
 [PyGMT-Download Data](https://github.com/iktri/iktripy/blob/dcab169f03c20e5c09c8c828d262e9207fe5ecc9/pygmt/01_download_data.ipynb)
 
-##Download Katalog Gempa
+## Download Katalog Gempa
 
 1. _New python file_ telah dibuat di Jupyter Notebook, dengan baris pertama berisi _importing packages_ untuk _library_ yang dibutuhkan dalam pengolahan data seismologi (**pygmt, obspy, pandas, numpy**). Pada _library_ obspy, modul yang diperlukan adalah **Client** (lembaga yang menyediakan data gempabumi) dan juga **UTCDateTime** (waktu _Coordinated Universal Time_ yang menunjukkan standar waktu internasional).
 Eksekusi dengan cara klik **Run** atau tekan **Shift + Enter** pada _line_ yang berisikan _script_.

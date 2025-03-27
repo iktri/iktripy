@@ -19,6 +19,7 @@ Untuk script Python Download_Data.ipynb dapat diakses pada:
 1. _New python file_ telah dibuat di Jupyter Notebook, dengan baris pertama berisi _importing packages_ untuk _library_ yang dibutuhkan dalam pengolahan data seismologi (**pygmt, obspy, pandas, numpy**). Pada _library_ obspy, modul yang diperlukan adalah **Client** (lembaga yang menyediakan data gempabumi) dan juga **UTCDateTime** (waktu _Coordinated Universal Time_ yang menunjukkan standar waktu internasional).
 Eksekusi dengan cara klik **Run** atau tekan **Shift + Enter** pada _line_ yang berisikan _script_.
 
+```python
 import pygmt
 from obspy.clients.fdsn import Client
 from obspy import UTCDateTime

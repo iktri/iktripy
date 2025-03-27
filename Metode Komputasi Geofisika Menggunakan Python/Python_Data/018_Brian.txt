@@ -1,0 +1,11 @@
+Barang	Harga
+Biskuit	10000
+Deodorant	20000
+Shampoo	30000
+Deterjen	40000
+Mug	50000
+Handuk	60000
+Kopi	70000
+Sarung	80000
+Tumbler	90000
+Panci	100000

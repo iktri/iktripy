@@ -25,6 +25,7 @@ from obspy.clients.fdsn import Client
 from obspy import UTCDateTime
 import pandas as pd
 import numpy as np
+```
 
 _Client_ merupakan lembaga yang tergabung dalam _International Federation of Digital Seismograph Networks (FDSN)_ yang menyediakan data seismogram secara _open-source_. Berikut merupakan daftar _Client_ yang dapat diakses:
 | **No** | **Agensi**    | **Keterangan**    | **Website**    |

@@ -6,6 +6,7 @@ Welcome to my website! Below are some links you can check out:
 
 - [PyGMT - Installation](pygmt_install.md)
 - [PyGMT - Download Katalog Gempa](pygmt_download.md)
+- [PyGMT - Plot Seismisitas Gempa](pygmt_seismicity.md)
 
 ## External Links
 
